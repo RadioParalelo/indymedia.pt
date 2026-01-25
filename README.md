@@ -7,9 +7,8 @@ plugins:
 fediverse: [indieweb](https://github.com/indieweb/wordpress-indieweb)
 rss: [rss feeds](https://pt.wordpress.org/plugins/pretty-rss-feeds/)
 
-theme: 
+theme: ([wpindy](https://github.com/RadioParalelo/indymedia.pt/blob/main/wpindytheme.zip))
 
 radio: 
-radio.indymedia.pt (website: jekyll)
+radio.indymedia.pt
 streaming: icecast 
-server: libretime + azuracast 

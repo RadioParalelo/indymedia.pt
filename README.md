@@ -1,14 +1,10 @@
 # indymedia.pt
-
-
 - [wordpress.org](https://wordpress.org/)
-+
-. fediverse: [indieweb](https://github.com/indieweb/wordpress-indieweb)
-. rss: [rss feeds](https://pt.wordpress.org/plugins/pretty-rss-feeds/)
-- theme: ([wpindy](https://github.com/RadioParalelo/indymedia.pt/blob/main/wpindytheme.zip)) 
+. [indieweb](https://github.com/indieweb/wordpress-indieweb)
+. [rss](https://pt.wordpress.org/plugins/pretty-rss-feeds/)
+- ([wp-theme](https://github.com/RadioParalelo/indymedia.pt/blob/main/wpindytheme.zip)) 
 
 ### radio: 
-github (website) : [radio.indymedia.pt](https://github.com/RadioParalelo/radio.indymedia.pt)
-
+- website: [github](https://github.com/RadioParalelo/radio.indymedia.pt)
 - streaming: [icecast](https://icecast.org/)
 - studio: [libretime](https://libretime.org/) / [azuracast](https://www.azuracast.com/)

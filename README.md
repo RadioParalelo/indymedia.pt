@@ -8,6 +8,7 @@
 - theme: ([wpindy](https://github.com/RadioParalelo/indymedia.pt/blob/main/wpindytheme.zip)) 
 
 ### radio: 
-- site: github + jekyll [radio.indymedia.pt](https://github.com/RadioParalelo/radio.indymedia.pt)
+github (website) : [radio.indymedia.pt](https://github.com/RadioParalelo/radio.indymedia.pt)
+
 - streaming: [icecast](https://icecast.org/)
 - studio: [libretime](https://libretime.org/) / [azuracast](https://www.azuracast.com/)
